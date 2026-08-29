@@ -8,7 +8,7 @@ I enjoy building practical solutions that combine **data, machine learning, and 
 
 🎓 B.E. in Artificial Intelligence & Machine Learning  
 💡 Interested in AI Engineering, ML Applications & R&D  
-🌱 Currently exploring LLMs, RAG, Embeddings & AI Agents  
+🌱 Currently exploring LLMs, RAG, Embeddings & AI Agents
 
 ---
 
@@ -61,14 +61,14 @@ I enjoy building practical solutions that combine **data, machine learning, and 
 
 ## 💼 Experience
 
-### Artificial Intelligence Intern — Codec Technologies
+### 🤖 Artificial Intelligence Intern — Codec Technologies
 
 - Applied statistical analysis and machine learning techniques to clean, process, and analyze business datasets.
 - Built predictive machine learning models and evaluated model performance iteratively.
 - Used **Python, Pandas, NumPy and SQL** for data processing and analysis.
-- Presented insights using **Power BI**.
+- Presented actionable insights using **Power BI**.
 
-### Data Analytics Virtual Intern — Deloitte Australia
+### 📊 Data Analytics Virtual Intern — Deloitte Australia
 
 - Performed **forensic data analysis and statistical classification** of business datasets.
 - Cleaned and prepared data using **Microsoft Excel**.
@@ -99,7 +99,7 @@ Applied:
 - F1-score
 - ROC-AUC
 
-The goal was to identify customers who are likely to churn and support proactive customer-retention decisions.
+The goal was to identify customers likely to churn and support proactive customer-retention decisions.
 
 ---
 
@@ -136,7 +136,7 @@ Technologies and concepts include:
 
 The system combines traditional FAQ retrieval with an LLM fallback for more complex or unseen queries.
 
-Currently exploring improvements using **embeddings and RAG** for more semantic and domain-specific responses.
+Currently exploring improvements using **embeddings and RAG** for semantic and domain-specific responses.
 
 ---
 
@@ -162,7 +162,7 @@ Performed data cleaning and analysis and built an interactive dashboard to explo
 
 ---
 
-## 📊 Data Analytics & BI
+## 📊 Data Analytics & Business Intelligence
 
 I'm also interested in using data analytics to support business decisions.
 
@@ -189,7 +189,7 @@ Areas of interest:
 - 🔎 Semantic Search
 - 🧠 AI Agents
 - 🔗 LLM Applications
-- 📊 LLM Evaluation
+- 📈 LLM Evaluation
 - 🏢 Enterprise AI Applications
 
 ---
@@ -214,25 +214,25 @@ Pune Genba Sopanrao Moze College of Engineering, Pune
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kolteanushkaa&show_icons=true&theme=dark&hide_border=true)
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kolteanushkaa&show_icons=true&theme=dark&hide_border=true&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kolteanushkaa&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kolteanushkaa&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kolteanushkaa&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=kolteanushkaa&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=kolteanushkaa&style=flat-square)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushkakolte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-kolte/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolteanushkaa@gmail.com)
 
